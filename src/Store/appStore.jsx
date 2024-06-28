@@ -1,6 +1,11 @@
-const { create } = require("zustand");
+import { create } from "zustand";
 
-const appStore = create((set) =>({
 
-}))
+
+const appStore = create((set) => ({
+  
+}));
+
 export default appStore;
+
+   

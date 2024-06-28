@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { Stack } from '@mui/material'
+import { Paper } from '@mui/material'
 import Calculator from './Components/Calculator'
 import Results from './Components/Results'
 
@@ -11,10 +11,10 @@ function App() {
 
   return (
     <>
-     <Stack direction='row' sx={{alignItems:"center"}}>
+     <Paper elevation={8} sx={{ display:"flex", alignItems:"center"}}>
       <Calculator/>
       <Results/>
-     </Stack>
+     </Paper>
     </>
   )
 }
