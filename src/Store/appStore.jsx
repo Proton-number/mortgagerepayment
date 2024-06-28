@@ -2,10 +2,13 @@ import { create } from "zustand";
 
 
 
-const appStore = create((set) => ({
+const AppStore = create((set) => ({
+
+    calculate:true,
+    setCalculate:(calculate) => set({calculate})
   
 }));
 
-export default appStore;
+export default AppStore;
 
    

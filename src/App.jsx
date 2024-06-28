@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-     <Paper elevation={8} sx={{ display:"flex", alignItems:"center"}}>
+     <Paper elevation={8} sx={{ display: "flex", borderRadius:"30px", flexDirection:{xs:"column", lg:"row"} }}>
       <Calculator/>
       <Results/>
      </Paper>
