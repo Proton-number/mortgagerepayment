@@ -14,9 +14,8 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
   - [Continued development](#continued-development)
 
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -36,10 +35,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mortgage-calculator-y585aHyhRK)
-- Live Site URL: [Add live site URL here](https://mortgaege.netlify.app/)
+- Solution URL: [Solution url](https://www.frontendmentor.io/solutions/mortgage-calculator-y585aHyhRK)
+- Live Site URL: [Live site url](https://mortgaege.netlify.app/)
 
-## My process
+
 
 ### Built with
 
@@ -80,8 +79,8 @@ I am currently building a Spotify Clone app so yeah i am learning alot really qu
 
 ## Author
 
-- Website - [Adebimpe Favour](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Adebimpe Favour](https://proton-numba.netlify.app/)
+- Frontend Mentor - [@Proton-number](https://www.frontendmentor.io/profile/yourusername)
 
 
 
