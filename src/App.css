@@ -3,3 +3,13 @@
   margin: 0 auto;
 }
 
+/* Hide arrows in input type number */
+.no-spinner input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.no-spinner input[type="number"]::-webkit-outer-spin-button,
+.no-spinner input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
